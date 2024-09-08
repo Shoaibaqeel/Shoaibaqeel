@@ -1,12 +1,6 @@
 - 👋 Hi, I’m Shoaibaqeel
 - 👀 I’m interested in Learning new techniques of Data Analysis and Statistics
 ![Github](https://github.com/user-attachments/assets/41ab5e70-22b0-41e2-8ed7-9ee60b9df9ba)
-
-
-
-
-
-
 - 📫 How to reach me shoaibaqeelatwork@gmail.com  
 - ⚡ Fun fact: Try to propose my crush using following Python code... ;P
 - import numpy as np
