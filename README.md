@@ -2,7 +2,7 @@
 - 👀 I’m interested in Learning new techniques of Data Analysis and Statistics
 ![Github](https://github.com/user-attachments/assets/41ab5e70-22b0-41e2-8ed7-9ee60b9df9ba)
 - 📫 How to reach me shoaibaqeelatwork@gmail.com  
-- ⚡ Fun fact: Try to propose my crush using following Python code... ;P
+- ⚡ Fun fact: Try to propose your crush using following Python code... beleive me it works.... ;P
 - import numpy as np
 - import matplotlib.pyplot as plt
 - t = np.linspace(0, 2 * np.pi, 1000)
